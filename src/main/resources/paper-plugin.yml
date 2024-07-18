@@ -1,6 +1,6 @@
 name: "InventorySort"
 description: "Inventory sort plugin"
-version: "1.0.0"
+version: "1.1.0"
 main: "org.nwtls.inventorysort.InventorySortPlugin"
 api-version: "1.21"
 author: "nwtls"
